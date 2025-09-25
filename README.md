@@ -1,0 +1,1 @@
+Laget en webapplikasjon med tre forkskelige subsider som man kan klikke på og se på. så kan man  klikke for og komme seg tilbake til hjemme siden igjen.
